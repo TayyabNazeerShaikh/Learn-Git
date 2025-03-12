@@ -1,0 +1,5 @@
+Welcome to file three!
+This is some example text.
+Feel free to modify this content as needed.
+
+Learning Git is fun and important for version control.

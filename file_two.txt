@@ -1,0 +1,6 @@
+Hello! This is file two.
+
+This file was created to demonstrate Git operations.
+It contains multiple lines of text to show version control.
+
+Feel free to modify this content as needed.
