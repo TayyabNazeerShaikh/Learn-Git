@@ -1,0 +1,4 @@
+This is text added to bunch1.
+Learning Git version control.
+Making changes to track in Git.
+First bunch of text.
